@@ -1,7 +1,7 @@
 # Angular 2 Project Skeleton
 
 ## Description
-##### Skeleton project files/folders for future Angular 2 projects.  Also uses Gulp and Bower.
+##### Basic Angular 2 development environment. Skeleton project files/folders for future Angular 2 projects. Also uses Gulp and Bower.
 
 ## Setup/Installation
 
